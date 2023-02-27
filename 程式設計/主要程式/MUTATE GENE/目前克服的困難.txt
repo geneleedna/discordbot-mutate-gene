@@ -1,0 +1,5 @@
+1.cog
+2.絕對路徑、相對路徑
+3.onmessage 卡到其他的指令
+4.random使用
+5.commands run twice =>reason = using bot.process.commands(message) in cog
