@@ -1,0 +1,13 @@
+{
+    "Hentai.net" : "https://nhentai.net/g/",
+    "紳士漫畫wnacg" : ["https://www.wnacg.com/photos-slide-aid-", ".html"],
+    "禁漫天堂" : "https://18comic.vip/photo/",
+    "Pixiv" : "https://www.pixiv.net/artworks/",
+
+
+    "Hentai.net-tag" : "https://nhentai.net/tag/",
+    "紳士漫畫wnacg-tag" : ["https://www.wnacg.com/albums-index-tag-" , ".html"],
+    "禁漫天堂-tag" : "https://18comic.vip/search/photos?search_query=",
+    "Pixiv-tag" : ["https://www.pixiv.net/tags/","/artworks"]
+    
+}
